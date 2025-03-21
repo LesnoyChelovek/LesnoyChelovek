@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Dmitriy
 
-- 👀 I’m interested in databases, AI, science, Python programming, exploring generative networks and LLMs, and vibe programming.
+- 👀 I’m interested in databases, AI, science, Python programming, exploring generative networks and LLMs, and vibe-coding.
 
 - 🌱 I’m currently learning Python.
 
